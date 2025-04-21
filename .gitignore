@@ -1,0 +1,54 @@
+# Unreal Engine
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.xcconfig
+*.DS_Store
+.vscode/
+.idea/
+
+# Build folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# User-specific files
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.unsaved
+*.VC.db
+*.VC.VC.opendb
+*.log
+*.tlog
+
+# Other
+.vscode/
+*.pdb
+*.obj
+*.exe
+*.dll
+*.app
+*.lib
+*.dylib
+*.ipch
+*.idb
+
+# Ignore these if you generate project files using Unreal
+.vs/
+*.target
+*.mod
+*.modules
+*.targets
+*.csproj
+*.vcxproj
+*.filters
+*.aps
+
+# Ignore Unreal auto-generated files
+*.generated.*
